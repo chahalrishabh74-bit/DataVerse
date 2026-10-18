@@ -34,3 +34,9 @@ Open the URL printed by `serve`.
 
 If you already have the dependencies installed in the backend, do not run npm install again.
 Use Ctrl+F5 after replacing an older frontend so the browser loads the new app.js.
+
+## Data Structure Operations Guide
+
+Explore the common operations associated with the data structures available in DataVerse, including arrays, linked lists, stacks, queues, trees, graphs, and hashing.
+
+For operation details, see the [Data Structure Operations Guide](docs/DSA_OPERATIONS.md).
